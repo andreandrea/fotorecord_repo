@@ -1,0 +1,66 @@
+{
+  "company": {
+    "name": "Fotorecord Di Calanca Roberto",
+    "description": "Laboratorio artigianale specializzato nella progettazione e realizzazione di sistemi di incorniciatura professionale e servizi di stampa fotografica ad alta definizione. Il nostro catalogo tecnico comprende oltre 2000 combinazioni di profili, lavorazioni superficiali, cromie e finiture certificate per applicazioni conservative e decorative.",
+    "legalForm": "Impresa individuale",
+    "qualification": "Artigiano certificato",
+    "foundedYear": 1985,
+    "experience": "Quarant'anni di competenza tecnica nella lavorazione artigianale e conservazione preventiva"
+  },
+  "headquarters": {
+    "address": "Via Achille Grandi 138, 41019 Soliera (MO), Italia",
+    "phone": "+39 059565045",
+    "email": "info@fotorecord.it",
+    "whatsapp": "+39 059565045",
+    "pec": "robertocalanca@pec.it"
+  },
+  "legalInfo": {
+    "vatNumber": "04092300369",
+    "fiscalCode": "CLNRRT57S20I802R",
+    "businessRegistry": "MO - 442225",
+    "artisanRegistration": "MO-158270",
+    "sdi": "X2PH38J"
+  },
+  "website": {
+    "url": "https://www.fotorecord.it",
+    "description": "Piattaforma digitale con catalogo tecnico completo e configuratore parametrico per la progettazione di sistemi di incorniciatura personalizzati.",
+    "since": 2021
+  },
+  "social": {
+    "pinterest": "https://it.pinterest.com/Fotorecord_italy/",
+    "instagram": "https://www.instagram.com/fotorecord.it?igsh=bmV5a3YyZHRzNmd6",
+    "facebook": "https://www.facebook.com/Calancafotorecord85"
+  },
+  "openingHours": {
+    "monday": "9:00 - 12:30, 16:00 - 19:00",
+    "tuesday": "9:00 - 12:30, 16:00 - 19:00",
+    "wednesday": "9:00 - 12:30, 16:00 - 19:00",
+    "thursday": "9:00 - 12:30, pomeriggio chiuso",
+    "friday": "9:00 - 12:30, 16:00 - 19:00",
+    "saturday": "9:00 - 12:30, 16:00 - 19:00",
+    "sunday": "Chiuso"
+  },
+  "customerSupport": {
+    "email": "info@fotorecord.it",
+    "phone": "+39 059565045",
+    "responseTime": "Entro 24 ore lavorative"
+  },
+  "bankInfo": {
+    "bank": "BPM SpA",
+    "iban": "IT09E 05034 67050 0000000 44306",
+    "swift": "BAPPIT21452"
+  },
+  "coreValues": {
+    "quality": "Sistemi di incorniciatura realizzati con materiali certificati e tecniche artigianali consolidate",
+    "customization": "Progettazione parametrica su specifiche tecniche del cliente attraverso configuratore avanzato",
+    "tradition": "Competenza tecnica maturata in quarant'anni di attività specializzata",
+    "evolution": "Sviluppo continuo del catalogo tecnico per ampliare le possibilità progettuali"
+  },
+  "shipping": {
+    "standardTime": "7-10 giorni lavorativi dall'ordine",
+    "details": "Tempistica comprensiva di: analisi tecnica del progetto, lavorazione artigianale, controllo qualità, imballaggio protettivo e consegna tramite corriere specializzato.",
+    "exceptions": "I tempi possono subire variazioni per cause di forza maggiore (condizioni meteorologiche avverse, interruzioni logistiche, scioperi del settore trasporti).",
+    "shippingAddress": "Fotorecord di Calanca Roberto, Via Achille Grandi 138, 41019 Soliera (MO), Italia",
+    "costs": "Tariffe calcolate in base a peso, dimensioni e destinazione; spedizione gratuita per ordini superiori a 100€"
+  }
+}
